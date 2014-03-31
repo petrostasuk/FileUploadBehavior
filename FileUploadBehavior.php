@@ -1,7 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: peter
+ * Author : petro.stasuk.990@gmail.com
  * Date: 27.03.14
  * Time: 22:20
  */
