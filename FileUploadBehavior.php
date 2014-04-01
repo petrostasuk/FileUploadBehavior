@@ -48,7 +48,7 @@ class FileUploadBehavior extends CActiveRecordBehavior
         $validators->add($validator);
     }
 
-    protected function getFileUrl()
+    public function getFileUrl()
     {
         $filePath = Yii::getPathOfAlias($this->fileAlias);
         $webrootPath = Yii::getPathOfAlias('webroot');
